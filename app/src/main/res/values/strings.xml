@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Test News</string>
+
+    <string name="tag_delete">Swipe to Delete</string>
+    <string name="tag_loading">Loading</string>
+    <string name="tag_back">Back</string>
+
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis establecimiento eget mattis sagittis. Proin varius gravida pharetra. Mauris aliquet nec justo vel viverra. Praesent porttitor vestibulum nisl, id convallis tortor euismod pulvinar. Praesent a orci sem. Nam id lacinia ex. Etiam bibendum, leo pharetra pellentesque pretium, sem neque ullamcorper magna, et finibus felis ante in sem. </string>
+
+</resources>

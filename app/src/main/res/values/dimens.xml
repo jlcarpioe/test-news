@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="space_min">4dp</dimen>
+    <dimen name="space">8dp</dimen>
+    <dimen name="space_regular">16dp</dimen>
+    <dimen name="space_medium">24dp</dimen>
+    <dimen name="space_large">32dp</dimen>
+    <dimen name="space_bigger">64dp</dimen>
+
+    <dimen name="text_sup">12sp</dimen>
+    <dimen name="text_min">14sp</dimen>
+    <dimen name="text_regular">17sp</dimen>
+    <dimen name="text_button">15sp</dimen>
+    <dimen name="text_header">20sp</dimen>
+
+</resources>
